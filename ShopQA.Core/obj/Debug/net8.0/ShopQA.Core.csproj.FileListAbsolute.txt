@@ -1,0 +1,13 @@
+C:\Git\ShopQA\ShopQA.Core\bin\Debug\net8.0\ShopQA.Core.deps.json
+C:\Git\ShopQA\ShopQA.Core\bin\Debug\net8.0\ShopQA.Core.dll
+C:\Git\ShopQA\ShopQA.Core\bin\Debug\net8.0\ShopQA.Core.pdb
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\ShopQA.Core.csproj.AssemblyReference.cache
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\ShopQA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\ShopQA.Core.AssemblyInfoInputs.cache
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\ShopQA.Core.AssemblyInfo.cs
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\ShopQA.Core.csproj.CoreCompileInputs.cache
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\ShopQA.Core.sourcelink.json
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\ShopQA.Core.dll
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\refint\ShopQA.Core.dll
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\ShopQA.Core.pdb
+C:\Git\ShopQA\ShopQA.Core\obj\Debug\net8.0\ref\ShopQA.Core.dll

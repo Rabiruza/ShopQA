@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="ShopQA.API.Tests/ShopQA.API.Tests.csproj" />
+  <Project Path="ShopQA.App/ShopQA.App.csproj" />
+  <Project Path="ShopQA.BDD/ShopQA.BDD.csproj" />
+  <Project Path="ShopQA.Core/ShopQA.Core.csproj" />
+  <Project Path="ShopQA.Desktop.Tests/ShopQA.Desktop.Tests.csproj" />
+  <Project Path="ShopQA.Security.Tests/ShopQA.Security.Tests.csproj" />
+  <Project Path="ShopQA.Web.Tests/ShopQA.Web.Tests.csproj" />
+</Solution>
