@@ -1,4 +1,4 @@
-namespace ShopQA.Core.Config;  
+namespace ShopQA.Core.Config;
 
 public static class TestConfiguration
 {

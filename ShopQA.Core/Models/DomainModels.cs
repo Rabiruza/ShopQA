@@ -1,4 +1,5 @@
 namespace ShopQA.Core.Models;
+
 using System.Net;
 
 /// <summary>
