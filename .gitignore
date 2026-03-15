@@ -1,15 +1,69 @@
-# Visual Studio cache and temporary files
+# Visual Studio
 .vs/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+*.cache
+*.csproj.user
 
 # Build results
 [Dd]ebug/
+[Dd]ebugPublic/
 [Rr]elease/
+[Rr]eleases/
 x64/
 x86/
+ARM/
+x64Debug/
+x64Release/
 bld/
 [Bb]in/
 [Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains Rider
+.idea/
+*.sln.iml
